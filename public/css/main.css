@@ -1,0 +1,76 @@
+html{
+    height: 100%;
+    background-image: url("galaxy_background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  
+}
+
+body{
+font-family: 'Century Gothic', sans-serif;
+  
+}
+
+
+p{
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: 'Alex Brush', sans-serif;
+    text-align: center;
+                                                
+    color: rgb(153, 126, 39);
+
+}
+
+header{
+    text-align: center;
+    font-size: 48px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: 'Nitti', sans-serif;
+                                                
+    color: rgba(153, 126, 39, 0.75);
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 50px;
+}
+
+h2{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    font-family: 'Alex Brush', sans-serif;
+                                                
+    color: rgb(153, 126, 39);
+
+}
+
+a{
+
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Sacramento';
+    color: rgb(153, 126, 39);
+
+}
+
+
+div{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 300px;
+    border: 5px solid rgba(61, 60, 60, 0.75);
+    padding: 10px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-bottom: 50px;
+
+}
+
+
+
+    
